@@ -1,2 +1,2 @@
 # Amazon-clone
-Amazon clone made with HTML and CSS (Only frontend).
+A clone of amazon.com made with HTML and CSS (Only frontend).
